@@ -1,1 +1,1 @@
-thist clone file
+thist clone diff
